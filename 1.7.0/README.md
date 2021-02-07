@@ -6,7 +6,7 @@ Modpack for Minecraft
 Play along with the Hermitcraft members on their various YouTube and Twitch series with this customized pack.
 Fastcraft is enabled in this pack by default.
 
-<img src="http://media-elerium.cursecdn.com/avatars/thumbnails/52/294/340/340/636113638663242082.png" width="340" height="340">
+<img src="https://web.archive.org/web/20190313002209if_/https://media.forgecdn.net/avatars/52/294/636113638663242082.png" width="340" height="340">
 
 NOTE: In compliance with Mojang "End User License Agreement", you will need to agree to the EULA in order to run your own Minecraft server. By using this container you acknowledge the EULA! If you do not agree, then you are not permitted to use this container!
 https://account.mojang.com/documents/minecraft_eula
